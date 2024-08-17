@@ -57,7 +57,7 @@ education:
     date_start: 2023-09-01
     date_end: 2026-06-30
     summary: |
-      研究项目：
+      > 研究项目：
       - 国家自然科学基金联合基金项目
       - 173基础加强项目
       - 国家重点研发计划等
@@ -117,11 +117,11 @@ work:
     date_start: 2023-01-01
     date_end: 2026-12-01
     summary: |2-
-      旨在解决社会政治复杂应用场景下事件要素获取难、数据表征难等问题。负责文本的自动化数据标注与知识抽取算法研究
+      旨在解决社会政治复杂应用场景下事件要素获取难、数据表征难等问题。负责文本的批量化数据标注与知识抽取算法研究
 
-      - **数据构建:** 完成基于大模型的事件文本生成与自动化数据标注，构建超5000条实例的社会事件数据集        
+      - **数据构建:** 引导大模型利用事件元素生成事件文本，并结合半监督学习多轮修正标注实现批量化数据标注，构建超5000条实例的社会事件数据集        
       - **方法创新:** 针对文本中提取事件元素相关实体的边界定位模糊问题，设计<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=A57ACrYAAAAJ&citation_for_view=A57ACrYAAAAJ:2osOgNQ5qMEC">基于自适应语义区分模块和边界过滤模块的命名实体识别模型</a>，相较当前SOTA方法提升超1.5%
-      - **算法研究:** 针对事件抽取任务涉及一种基于多视角提示学习模板与投票策略的生成式模型
+      - **算法研究:** 针对事件抽取任务设计多视角提示学习模板，并结合投票策略缓解生成式模型对单一固定提示模板的过度依赖，降低对不同领域手工设计模板的成本
       - **算法落地:** 所研制的抽取算法应用于中电科智能院
   - position: 173基础加强项目 | 面向xxxxxxxxx的自适应学习（550万元，在研）
     company_name: 军委科技委
@@ -190,18 +190,18 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Guitar&Piano
         description: ''
         percent: 80
         icon: camera
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
