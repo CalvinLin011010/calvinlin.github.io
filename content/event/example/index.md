@@ -67,7 +67,7 @@ projects:
 
 Recorded video of the pre-talk. The recorded video of the live speech will be officially released later.
 
-{{< youtube BV1fwWweXEu6 >}}
+{{< bilibili BV1fwWweXEu6 >}}
 
 
 
