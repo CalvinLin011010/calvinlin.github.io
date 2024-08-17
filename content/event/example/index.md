@@ -12,7 +12,7 @@ address:
   postcode: '10126'
   country: Italia
 
-summary: Recorded video of the pre-talk.
+summary: Recorded video of the pre-talk. The recorded video of the live speech will be officially released later
 abstract: 'Joint entity-relation extraction remains a challenging task in information retrieval, given the intrinsic difficulty in modelling the interdependence between named entity recognition (NER) and relation extraction (RE) sub-tasks. Most existing joint extraction models encode entity and relation features in a sequential or parallel manner, allowing for limited one-way interaction. However, it is not yet clear how to capture the interdependence between these two sub-tasks in a synergistic and mutually reinforcing fashion. With this in mind, we propose a novel approach for joint entity-relation extraction, named Synergetic Interaction Network (SINET) which utilizes a cross-task attention mechanism to effectively leverage contextual associations between NER and RE. Specifically, we construct two sets of distinct token representations for NER and RE sub-tasks respectively. Then, both sets of unique representation interact with one another via a cross-task attention mechanism, which exploits associated contextual information produced by concerted efforts of both NER and RE. Experiments on three benchmark datasets demonstrate that the proposed model achieves significantly better performance in joint entity-relation extraction. Moreover, extended analysis validates that the proposed mechanism can indeed leverage the semantic information produced by NER and RE sub-tasks to boost one another in a complementary way. The source code is available to the public online.'
 
 # Talk start and end times.
