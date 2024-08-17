@@ -13,14 +13,15 @@ baseURL: 'https://example.com/'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: True
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
 ## ADVANCED
 ############################
-
+markdown:
+  enableInlineShortcodes: true
 build:
   writeStats: true
 enableGitInfo: false
