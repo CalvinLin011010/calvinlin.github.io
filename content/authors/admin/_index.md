@@ -110,7 +110,7 @@ education:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: 国家自然基金重点 | 多模态数据驱动的事件表征与可解释性推理方法研究\\<br>（U22B2061，252万元，在研）\\</br>
+  - position: 国家自然基金重点 | 多模态数据驱动的事件表征与可解释性推理方法研究```<br>```（U22B2061，252万元，在研）```</br>```
     company_name: 国家自然科学基金委员会
     company_url: ''
     company_logo: ''
@@ -122,7 +122,7 @@ work:
       - 🗃️**数据构建**🗃️: 完成基于大模型的事件文本生成与自动化数据标注，构建超5000条实例的社会事件数据集
       - 🧪**算法研究**🧪: 针对事件抽取任务涉及一种基于多视角提示学习模板与投票策略的生成式模型
       - 🛬**算法落地**🛬: 所研制的抽取算法应用于中电科智能院
-  - position: 173基础加强项目 | 面向xxxxxxxxx的自适应学习\<br>（550万元，在研）\</br>
+  - position: 173基础加强项目 | 面向xxxxxxxxx的自适应学习```<br>```（550万元，在研）```</br>```
     company_name: 军委科技委
     company_url: ''
     company_logo: ''
@@ -147,7 +147,7 @@ work:
       - **舆情收集:** 在线爬取并人工构建基于XXXX大会议的国内外舆情数据，以及国际军事网站、军工企业对武器的评论数据
       - **方法设计:** 在方面级情感三元组抽取任务中，设计一种基于上下文语义的跨任务交叉注意力机制，有效解决了复杂语境下的长词识别与多三元组识别问题
       - **方法落地:** 所研制情感分析算法已交付江苏省公安厅，并集成于实际业务系统
-  - position: 标包项目 | 魔方语音与图像识别能力研发  <br>（200万元，结项）</br>
+  - position: 标包项目 | 魔方语音与图像识别能力研发  ```<br>```（200万元，结项）```</br>```
     company_name: 中国电信
     company_url: ''
     company_logo: ''
