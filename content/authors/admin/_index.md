@@ -49,10 +49,11 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Extraction
+  - Sentiment Analysis
 
 education:
-  - area: 信息抽取、知识图谱
-    institution: 电子科技大学 - 计算机科学与工程学院（网络空间安全学院）
+  - area: MEng Artificial Intelligence
+    institution: University of Electronic Science and Technology of China
     date_start: 2023-09-01
     date_end: 2026-06-30
     summary: |
@@ -60,21 +61,22 @@ education:
       - 国家自然科学基金联合基金项目
       - 173基础加强项目
       - 国家重点研发计划等
-    button:
-      text: 'Read Thesis'
-      url: 'https://openreview.net/profile?id=~Run_Lin3'
-  - area: 信息抽取
-    institution: 中国矿业大学（北京） - 机电与信息工程学院
+    # button:
+    #   text: 'Read Thesis'
+      # url: 'https://openreview.net/profile?id=~Run_Lin3'
+  - area: BSc Computer Science
+    institution: China University of Mining Technology - Beijing
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
       GPA: 3.7/4.0
+
       所获荣誉：
       - 国家励志奖学金、优秀学生一等奖学金
       - 校优秀毕业生
       - 校级优秀学生干部
-      - 校内辩论赛冠军
-      
+      - 校内辩论赛冠军等
+
 # education:
 #   - area: PhD Artificial Intelligence
 #     institution: Stanford University
@@ -108,25 +110,40 @@ education:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 国家自然基金重点 | 多模态数据驱动的事件表征与可解释性推理方法研究（U22B2061，252万元，在研）
+    company_name: 国家自然科学基金委员会
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-01-01
+    date_end: 2026-12-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      旨在解决社会政治复杂应用场景下事件数据获取难、表征难等问题，负责文本的自动化数据标注与知识抽取算法研究
+
+      - 🗃️**数据构建**🗃️: 完成基于大模型的事件文本自动化数据标注，构建超5000条实例的社会事件数据集
+      - 🧪**算法研究**🧪: 针对事件抽取任务涉及一种基于多视角提示学习模板与投票策略的生成式模型
+      - 🛬**算法落地**🛬: 所研制的抽取算法应用于中电科智能院
+  - position: 173基础加强项目 | 面向xxxxxxxxx的自适应学习（550万元，在研）
+    company_name: 军委科技委
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
+    date_start: 2025-08-01
+    date_end: 2022-09-01
+    summary: |2-
+      旨在研究特定领域数据动态变化下人物画像构建难、更新难等问题。负责业务数据标注规范制定与自适应抽取算法研究
+
+      - **本体构建**: 围绕军事、政治、社会等方面设计领域本体，基于国内外社交平台爬取的新闻数据构建超8000条实例的领域数据集
+      - **框架创新**: 针对特定领域数据标注匮乏等特点，设计了[基于对比学习的大规模预训练语言模型的关系抽取框架](https://ojs.aaai.org/index.php/AAAI/article/view/29838)，在零样本关系抽取任务上相较当前SOTA方法提升超10%
+      - **算法设计**: 调研实体关系抽取领域的子任务间信息交互方式，设计[跨任务协同交互算法](https://aclanthology.org/2024.lrec-main.1343)。相较当前SOTA方法提升超2%
+      - **应用验证**: 所研制的抽取算法经第三方机构测试验证，顺利通过中期验收。现已交付XX部队，并集成于实际业务系统
+  - position: 173基础加强项目 | 面向xxxxxxxxx的自适应学习（550万元，在研）
+    company_name: 军委科技委
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-08-01
+    date_end: 2022-09-01
+    summary: |2-
+      旨在研究面向社交媒体和科技评测文本的多粒度情感分析算法
+
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
