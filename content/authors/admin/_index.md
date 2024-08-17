@@ -237,4 +237,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Run Lin is a postgraduate student at UESTC Aone Lab. His research interests include sentiment analysis, event extraction, knowledge graph. At the same time, he balances the tasks of django and vue based development.

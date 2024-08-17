@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: COLING 2024 paper sharing talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
+event_url: https://lrec-coling-2024.org/
 
-location: Hugo Blox Builder HQ
+location: Lingotto Conference Centre - Torino (Italia)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Via Nizza, 280
+  city: Torino
+  region: TO
+  postcode: '10126'
+  country: Italia
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Recorded video of the pre-talk.
+abstract: 'Joint entity-relation extraction remains a challenging task in information retrieval, given the intrinsic difficulty in modelling the interdependence between named entity recognition (NER) and relation extraction (RE) sub-tasks. Most existing joint extraction models encode entity and relation features in a sequential or parallel manner, allowing for limited one-way interaction. However, it is not yet clear how to capture the interdependence between these two sub-tasks in a synergistic and mutually reinforcing fashion. With this in mind, we propose a novel approach for joint entity-relation extraction, named Synergetic Interaction Network (SINET) which utilizes a cross-task attention mechanism to effectively leverage contextual associations between NER and RE. Specifically, we construct two sets of distinct token representations for NER and RE sub-tasks respectively. Then, both sets of unique representation interact with one another via a cross-task attention mechanism, which exploits associated contextual information produced by concerted efforts of both NER and RE. Experiments on three benchmark datasets demonstrate that the proposed model achieves significantly better performance in joint entity-relation extraction. Moreover, extended analysis validates that the proposed mechanism can indeed leverage the semantic information produced by NER and RE sub-tasks to boost one another in a complementary way. The source code is available to the public online.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-05-23T16:00:00Z' 
+date_end: '2024-05-23T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2024-05-01T00:00:00Z'
 
 authors:
   - admin
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_code: 'https://github.com/AONE-NLP/RTE-SINET'
+url_pdf: 'https://aclanthology.org/2024.lrec-main.1343/'
+url_slides: 'https://www.bilibili.com/video/BV1fwWweXEu6'
+url_video: 'https://www.bilibili.com/video/BV1fwWweXEu6'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
