@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 林润
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lin Run
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Run
+last_name: Lin
 
 # Status emoji
 status:
@@ -20,69 +20,93 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Cyberworld Explorer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UESTC
+    url: https://www.uestc.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:calvinlin011010@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/weixin
+    url: https://u.wechat.com/MLuIE1Ns0pte-T58sgtC1VU?s=1
+    label: Contect me by TEL:18801071069
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://github.com/calvinlin011010
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=A57ACrYAAAAJ&hl=zh-CN&oi=sra
+  - icon: brands/arxiv
+    url: https://openreview.net/profile?id=~Run_Lin3
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0005-7651-8222
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Information Extraction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 信息抽取、知识图谱
+    institution: 电子科技大学 - 计算机科学与工程学院（网络空间安全学院）
+    date_start: 2023-09-01
+    date_end: 2026-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      研究项目：
+      - 国家自然科学基金联合基金项目
+      - 173基础加强项目
+      - 国家重点研发计划等
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://openreview.net/profile?id=~Run_Lin3'
+  - area: 信息抽取
+    institution: 中国矿业大学（北京） - 机电与信息工程学院
+    date_start: 2019-09-01
+    date_end: 2023-06-30
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.7/4.0
+      所获荣誉：
+      - 国家励志奖学金、优秀学生一等奖学金
+      - 校优秀毕业生
+      - 校级优秀学生干部
+      - 校内辩论赛冠军
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# education:
+#   - area: PhD Artificial Intelligence
+#     institution: Stanford University
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#     button:
+#       text: 'Read Thesis'
+#       url: 'https://example.com'
+#   - area: MEng Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       GPA: 3.8/4.0
+
+#       Courses included:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - area: BSc Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       GPA: 3.4/4.0
+      
+#       Courses included:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
