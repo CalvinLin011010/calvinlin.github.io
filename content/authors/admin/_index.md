@@ -110,7 +110,7 @@ education:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: 国家自然基金重点 | 多模态数据驱动的事件表征与可解释性推理方法研究（U22B2061，252万元，在研）
+  - position: 国家自然基金重点 | 多模态数据驱动的事件表征与可解释性推理方法研究<br>（U22B2061，252万元，在研）</br>
     company_name: 国家自然科学基金委员会
     company_url: ''
     company_logo: ''
@@ -119,10 +119,10 @@ work:
     summary: |2-
       旨在解决社会政治复杂应用场景下事件数据获取难、表征难等问题。负责文本的自动化数据标注与知识抽取算法研究
 
-      - 🗃️**数据构建**🗃️: 完成基于大模型的事件文本自动化数据标注，构建超5000条实例的社会事件数据集
+      - 🗃️**数据构建**🗃️: 完成基于大模型的事件文本生成与自动化数据标注，构建超5000条实例的社会事件数据集
       - 🧪**算法研究**🧪: 针对事件抽取任务涉及一种基于多视角提示学习模板与投票策略的生成式模型
       - 🛬**算法落地**🛬: 所研制的抽取算法应用于中电科智能院
-  - position: 173基础加强项目 | 面向xxxxxxxxx的自适应学习<br>（550万元，在研）
+  - position: 173基础加强项目 | 面向xxxxxxxxx的自适应学习<br>（550万元，在研）</br>
     company_name: 军委科技委
     company_url: ''
     company_logo: ''
@@ -131,23 +131,34 @@ work:
     summary: |2-
       旨在研究特定领域数据动态变化下人物画像构建难、更新难等问题。负责业务数据标注规范制定与自适应抽取算法研究
 
-      - **本体构建**: 围绕军事、政治、社会等方面设计领域本体，基于国内外社交平台爬取的新闻数据构建超8000条实例的领域数据集
-      - **框架创新**: 针对特定领域数据标注匮乏等特点，设计了<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29838">基于对比学习的大规模预训练语言模型的关系抽取框架</a>，在零样本关系抽取任务上相较当前SOTA方法提升超10%
-      - **算法设计**: 调研实体关系抽取领域的子任务间信息交互方式，设计<a href="https://aclanthology.org/2024.lrec-main.1343">跨任务协同交互算法</a>。相较当前SOTA方法提升超2%
-      - **应用验证**: 所研制的抽取算法经第三方机构测试验证，顺利通过中期验收。现已交付XX部队，并集成于实际业务系统
+      - **本体构建:** 围绕军事、政治、社会等方面设计领域本体，基于国内外社交平台爬取的新闻数据构建超8000条实例的领域数据集
+      - **框架创新:** 针对特定领域数据标注匮乏等特点，设计了<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29838">基于对比学习的大规模预训练语言模型的关系抽取框架</a>，在零样本关系抽取任务上相较当前SOTA方法提升超10%
+      - **算法设计:** 调研实体关系抽取领域的子任务间信息交互方式，设计<a href="https://aclanthology.org/2024.lrec-main.1343">协同交互算法</a>。相较当前SOTA方法提升超2%
+      - **应用验证:** 所研制的抽取算法经第三方机构测试验证，顺利通过中期验收。现已交付XX部队，并集成于实际业务系统
   - position: 国家重点研发计划 | xxxxxx挖掘  （375万元，在研）
     company_name: 科技部
     company_url: ''
     company_logo: ''
-    date_start: 2025-08-01
-    date_end: 2022-09-01
+    date_start: 2021-12-01
+    date_end: 2024-11-01
     summary: |2-
-      旨在研究面向社交媒体和科技评测文本的多粒度情感分析算法。<br>主要负责方面级情感分析算法研究</br>
+      旨在研究面向社交媒体和科技评测文本的多粒度情感分析算法。负责方面级情感分析算法研究
 
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - **舆情收集:** 在线爬取并人工构建基于XXXX大会议的国内外舆情数据，以及国际军事网站、军工企业对武器的评论数据
+      - **方法设计:** 在方面级情感三元组抽取任务中，设计一种基于上下文语义的跨任务交叉注意力机制，有效解决了复杂语境下的长词识别与多三元组识别问题
+      - **方法落地:** 所研制情感分析算法已交付江苏省公安厅，并集成于实际业务系统
+  - position: 标包项目 | 魔方语音与图像识别能力研发<br>（200万元，结项）</br>
+    company_name: 中国电信
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-06-01
+    date_end: 2022-06-01
+    summary: |2-
+      旨在识别四川方言客服电话音频中关于特定事项的会话人意图。负责数据标注平台开发与会话人意图识别数据集构建。
 
+      - **项目开发:** 开发对话文本在线标注平台cdlabel，后端基于Django构建RESTful Web服务，前端基于Vue.js和Nuxt.js构建Javascript 网络应用程序
+      - **数据构建:** 训练魔塔社区开源的方言语音识别大模型UniASR，对四川方言会话音频进行语音转文字，获得四川电信客服通话文本，用于人工标注
+      - **落地应用:** cdlabel部署到中国电信业务系统中，人工标注包含四川方言的会话人意图识别数据集，用于会话人角色识别与意图识别模型的训练
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
