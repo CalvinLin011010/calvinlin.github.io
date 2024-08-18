@@ -1,6 +1,6 @@
 ---
 title: 🎉 广州办事+北京项目出差
-summary: 
+summary: live and work
 date: 2024-04-10
 
 # Featured image
@@ -14,6 +14,8 @@ authors:
 tags:
   - 出差
 ---
+
+## 广州
 
 2024-04-11 : 去广州办理签证，顺便问候住在广州的老同学们，再逛逛广州，吃吃粤菜，看看马戏，品品建筑
 
@@ -31,7 +33,7 @@ tags:
 
 ![](./picture/arch-5.jpg)
 
-citywork
+和同学citywork
 
 ![](./picture/arch-6.jpg)
 ![](./picture/arch-7.jpg)
@@ -43,7 +45,7 @@ citywork
 
 
 
-
+## 北京
 
 因项目结题，到北京出差两次，感受北理工午夜的破防冰红茶，航四院清晨的庄严寂静，西直门会场的紧张答辩。。。。。。
 
