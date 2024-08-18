@@ -33,7 +33,7 @@ tags:
 
 同学说要搭配这首歌坐在教堂里更静心更舒适，试了试确实
 
-{{< audio src="-Main Theme-.flac" >}}
+{{< audio src="-Main Theme-.mp3" >}}
 
 
 ![](./picture/arch-5.jpg)
