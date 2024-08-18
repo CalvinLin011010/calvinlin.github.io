@@ -1,14 +1,16 @@
 ---
-title: ✅ 在线标注平台cdlabel开发
+title: ✅ 在线标注平台cdlabel开发完结
 summary: 基于django+vue+nuxt的网络应用程序开发
-date: 2023-09-23
+date: 2023-10-10
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - python
+  - django
+  - vue
+  - nuxt
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: '[**Unsplash**](https://unsplash.com)'
 ---
 
 
@@ -29,4 +31,9 @@ image:
 ## 项目开发部分流程展示
 
 ![流程](partial-process-cdlabel.png)
+
+
+## 总结与后续
+
+完成甲方定制化需求，已部署到中国电信四川公司内部服务器，供公司内部人员在线标注会话人意图识别数据集。
 
