@@ -201,11 +201,6 @@ int main () {
 }
 ```
 
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
 
 renders as
 
