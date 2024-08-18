@@ -10,10 +10,10 @@ tags:
   - 升学
 
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: '电子科技大学-清水河校区'
 ---
 
 在北京跳过毕业典礼，从一线城市无缝切换到新一线城市攻读研究生，感受成都的好山好水和景观社会。
 
-![清水河校区](uestc.jpg)
+
 
