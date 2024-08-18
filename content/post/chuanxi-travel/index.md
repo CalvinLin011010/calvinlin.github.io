@@ -8,7 +8,7 @@ tags:
   - 旅行
   - 川西
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: '达古冰川-顶峰'
 ---
 
 2024年1月30号前提前完成所有任务开run
