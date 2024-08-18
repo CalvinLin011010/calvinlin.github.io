@@ -1,6 +1,6 @@
 ---
 title: Aone Lab
-date: 2023-10-26
+date: 2024-05-20
 external_link: https://github.com/AONE-NLP
 tags:
   - Markdown
