@@ -1,6 +1,6 @@
 ---
 title: ❄️成都市区+川西旅游
-summary: Create a personal knowledge base and share your knowledge with your peers.
+summary: 之前一直呆在实验室，现在乘着寒假看看成都
 date: 2024-01-29
 authors:
   - admin
