@@ -66,7 +66,7 @@ image:
 ![](./picture/china_town_milan-2.jpg)
 ![](./picture/china_town_milan-3.jpg)
 
-教堂
+教堂、多莫建筑
 
 ![](./picture/hall_milan.jpg)
 ![](./picture/hall_milan-2.jpg)
@@ -111,13 +111,13 @@ image:
 ![](./picture/friend_restaurant_milan-4.jpg)
 ![](./picture/friend_restaurant_milan-5.jpg)
 
-朋友开车带我们去另一个朋友那里，他是经营理发店的，路上车子胎压异常，顺便借他的车开开，前往多莫（海滨度假城市）
+朋友开车带我们去另一个朋友那里，他是经营理发店的，路上车子胎压异常，顺便借他的车开开，前往科莫（海滨度假城市）
 
 ![](./picture/friend_car_milan-1.jpg)
 ![](./picture/friend_shop_milan-3.jpg)
 ![](./picture/friend_car_milan-2.jpg)
 
-多莫街景
+科莫街景
 
 ![](./picture/hall_como-3.jpg)
 ![](./picture/hall_como-1.jpg)
