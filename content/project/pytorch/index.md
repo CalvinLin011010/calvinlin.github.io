@@ -1,11 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Several Projects
+date: 2022-10-26
+external_link: https://calvinlin011010.github.io/calvinlin.github.io/experience/
 tags:
-  - Markdown
+  - Interesting work
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Learning is my job, so does exploring.
 
 <!--more-->
