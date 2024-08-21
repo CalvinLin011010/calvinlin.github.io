@@ -238,4 +238,4 @@ languages:
 
 ## About Me
 
-Run Lin is a postgraduate student at UESTC Aone Lab. His research interests include sentiment analysis, event extraction, knowledge graph. At the same time, he balances the tasks of django and vue based development.
+Run Lin is a postgraduate student at UESTC Aone Lab. His research interests include sentiment analysis, event extraction, knowledge graph. At the same time, he balances the project based on django and vue.
